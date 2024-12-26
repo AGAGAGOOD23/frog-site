@@ -43,7 +43,12 @@ footer {
 }
 
 iframe {
+  width: 100%;
+  max-width: 800px;
+  height: 450px;
   border: none;
+  display: block;
+  margin: 0 auto;
 }
 section img {
   max-width: 100%;
